@@ -1,0 +1,8 @@
+---
+bullseye:
+  tags:
+    - android
+    - kotlin
+    - code samples
+  url: https://www.kodeco.com/30498263-your-first-kotlin-android-app-an-app-from-scratch
+  repo: null
