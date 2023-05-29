@@ -5,7 +5,16 @@ android:
       - code samples
       - xml view
       - constraint layout
+      - view binding
+      - dialog
+      - basic
+      - reasonable layout
+      - landscape
+      - modified
+      - styles and theme
+      - navigation
+      - multiple activities
     url: https://www.kodeco.com/30498263-your-first-kotlin-android-app-an-app-from-scratch
     repo: https://github.com/tianb0/bullseye
     create: Sat May 27 17:39:04 PDT 2023
-    status: working on
+    status: done
